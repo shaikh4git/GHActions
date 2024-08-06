@@ -1,0 +1,20 @@
+{
+  "name": "GHActions",
+  "version": "1.0.0",
+  "description": "A sample project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "deploy": "echo \"Deploy script not defined\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shaikh4git/GHActions.git"
+  },
+  "author": "Shaikh Huda Shams",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.32.0" // Adjust based on your linting setup
+  }
+}
